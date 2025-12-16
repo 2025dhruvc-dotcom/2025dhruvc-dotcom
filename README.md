@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Heyyy+I+am+Dhruv;)](https://git.io/typing-svg)
 
-" alt="Typing SVG" /></a>
 <h2>Welcome to my GitHub profile!</h2>
 
 <div align="center">
@@ -50,12 +49,10 @@
   />
 </picture>
 
-<!-- Removed a broken GitHub Snake image to avoid a large empty/404 image box. -->
-
 <div align="center">
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkoli145&theme=react-dark" alt="Raj Koli's Contribution Graph" width="900">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajkoli145&theme=react-dark" alt="Dhruv Chavda Contribution Graph" width="900">
 </a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajkoli145&theme=solarized)
